@@ -1,0 +1,8 @@
+#task2 cowsay
+
+run dockerfile by:
+
+1.docker build -t cowsay .
+2.docker run -it -p 4001:3001 --name mycow cowsay 3001
+
+
